@@ -1,0 +1,71 @@
+/************************************************* Between 200px and 317px *************************************************/
+@media only screen and (min-width: 200px)  and (max-width: 317px){
+  .movie-list img {
+      height: 90px;
+      width: 65px;
+  }
+
+  .movie-list p {
+    font-size: 11px;
+  }
+  
+}
+
+/************************************************* Between 317px and 476px *************************************************/
+@media only screen and (min-width: 317px)  and (max-width: 476px){
+  .movie-list img {
+      height: 100px;
+      width: 75px;
+  }
+
+  .movie-list p {
+    font-size: 14px;
+  }
+
+}
+
+/************************************************* Between 476px and 617px *************************************************/
+@media only screen and (min-width: 476px)  and (max-width: 617px){
+  .movie-list {
+    padding: 5px;
+  }
+  
+  .movie-list img {
+      height: 150px;
+      width: 125px;
+  }
+
+  .movie-list p {
+    font-size: 18px;
+  }
+}
+
+/************************************************* Between 617px and 776px *************************************************/
+@media only screen and (min-width: 617px)  and (max-width: 776px){
+  .movie-list {
+    padding: 10px;
+  }
+  
+  .movie-list img {
+      height: 175px;
+      width: 150px;
+  }
+
+  .movie-list p {
+    font-size: 24px;
+  }
+}
+
+.movie-list {
+  text-align: center;
+}
+
+.movie-list img {
+    border-radius: 5px;
+    margin-bottom: 24px;
+}
+
+.movie-list p {
+  margin: 0px;
+  color: rgb(194, 194, 194);
+}
