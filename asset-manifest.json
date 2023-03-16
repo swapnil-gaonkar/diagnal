@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/diagnal/static/css/main.53b69d87.css",
+    "main.js": "/diagnal/static/js/main.c536ee54.js",
+    "static/js/42.30adc62d.chunk.js": "/diagnal/static/js/42.30adc62d.chunk.js",
+    "static/js/10.17e6e178.chunk.js": "/diagnal/static/js/10.17e6e178.chunk.js",
+    "static/media/poster2.jpg": "/diagnal/static/media/poster2.bf23bfae49d854fec0f2.jpg",
+    "static/media/poster1.jpg": "/diagnal/static/media/poster1.d966e333249e4f74e821.jpg",
+    "static/media/poster3.jpg": "/diagnal/static/media/poster3.7ee7b802517e3b685aaf.jpg",
+    "static/media/poster5.jpg": "/diagnal/static/media/poster5.d0a9cf21d7e7d56979e2.jpg",
+    "static/media/poster8.jpg": "/diagnal/static/media/poster8.61013e431fa5ca643217.jpg",
+    "static/media/poster9.jpg": "/diagnal/static/media/poster9.080f33854a8c02368de2.jpg",
+    "static/media/poster6.jpg": "/diagnal/static/media/poster6.57e30e483bb184bc63b9.jpg",
+    "static/media/poster4.jpg": "/diagnal/static/media/poster4.a2f1de9b0f0c656226d7.jpg",
+    "static/media/poster7.jpg": "/diagnal/static/media/poster7.8f23c2d5749c68467aaf.jpg",
+    "index.html": "/diagnal/index.html",
+    "main.53b69d87.css.map": "/diagnal/static/css/main.53b69d87.css.map",
+    "main.c536ee54.js.map": "/diagnal/static/js/main.c536ee54.js.map",
+    "42.30adc62d.chunk.js.map": "/diagnal/static/js/42.30adc62d.chunk.js.map",
+    "10.17e6e178.chunk.js.map": "/diagnal/static/js/10.17e6e178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b69d87.css",
+    "static/js/main.c536ee54.js"
+  ]
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdiagnal=self.webpackChunkdiagnal||[]).push([[42],{42:function(e,a,n){n.r(a);var i=n(791),l=n(883),s=n(184);a.default=i.memo((0,l.Z)((function(e){return(0,s.jsx)("div",{className:"movie-page",children:e.element})})))}}]);
+//# sourceMappingURL=42.30adc62d.chunk.js.map
